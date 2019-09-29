@@ -1,4 +1,4 @@
-{
+[
       {
         "id": 1,
         "title": "Trees",
@@ -17,4 +17,4 @@
         "description": "install solar panels on roof",
         "completed": false
       }
-}
+]
