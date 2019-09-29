@@ -1,20 +1,20 @@
 [
       {
-        id: 1,
-        title: 'Trees',
-        description: 'plant 100 trees',
-        completed: false
+        "id": 1,
+        "title": "Trees",
+        "description": "plant 100 trees",
+        "completed": false
       },
       {
-        id: 2,
-        title: 'Electric Cars',
-        description: 'Buy an electric car',
-        completed: true
+        "id": 2,
+        "title": "Electric Cars",
+        "description": "Buy an electric car",
+        "completed": true
       },
       {
-        id: 3,
-        title: 'Solar Panels',
-        description: 'install solar panels on roof',
-        completed: false
+        "id": 3,
+        "title": "Solar Panels",
+        "description": "install solar panels on roof",
+        "completed": false
       }
 ]
